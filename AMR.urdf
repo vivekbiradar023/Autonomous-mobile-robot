@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<robot name="D:/Robot.urdf" xmlns:xacro="http://ros.org/wiki/xacro">
+  <link name="base_link">
+  </link>
+  <link name="motor_1">
+  </link>
+</robot>
